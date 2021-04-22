@@ -1,0 +1,14 @@
+.ff{
+    background-color:lavenderblush;
+    margin:5px;
+    border: 10px ridge crimson;
+    text-align: center;
+    color:rgb(83, 209, 33);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.fd{
+    margin:3px;
+    border: 5px ridge rgb(48, 12, 12);
+}

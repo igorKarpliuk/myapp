@@ -1,0 +1,9 @@
+[
+    {"username":"Ivan","password":"123","age":34, "job":"Waiter"},
+    {"username":"Andriy","password":"124","age":38, "job":"Electrician"},
+    {"username":"PVV","password":"125","age":51, "job":"Lector"},
+    {"username":"Ihor","password":"1211","age":55, "job":"Cleaner"},
+    {"username":"Eugene","password":"12442","age":43,"job":"Teacher"},
+    {"username":"Volodymyr","password":"12512","age":56,"job":"Director"}
+   ]
+   
